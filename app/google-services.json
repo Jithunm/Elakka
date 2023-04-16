@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806810427078",
+    "project_id": "cardamomdb-aed28",
+    "storage_bucket": "cardamomdb-aed28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806810427078:android:c3a13ab376726268e3c1c7",
+        "android_client_info": {
+          "package_name": "com.example.elakka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806810427078-v5pdhmcmud6jeuqas6hmhrdj5blqaomr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2l6h79Tro6r13MdgUvA0b70KnlCs-53Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806810427078-v5pdhmcmud6jeuqas6hmhrdj5blqaomr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

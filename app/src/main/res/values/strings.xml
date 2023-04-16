@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Elakka</string>
+    <string name="title_activity_tab_menu_home">TabMenuHome</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="error">Something Went Wrong!Please check logs</string>
+    <string name="expenseEntrySuccess">Expense Entry Added successfully!!</string>
+    <string name="expenseEntryfailure">Expense Entry Failed! Check logs for further details.</string>
+    <string name="validationMessage">"Enter the valid details!"</string>
+    <string name="incomeEntrySuccess">Income Entry Added successfully!!</string>
+    <string name="incomeEntryfailure">Income Entry Failed! Check logs for further details.</string>
+    <string name="totalIncomeUpdateSuccess">Total Income updated successfully!!</string>
+    <string name="totalIncomeEntrySuccess">Total Income updated successfully!!</string>
+    <string name="totalExpenseUpdateSuccess">Total Expense updated successfully!!</string>
+    <string name="totalExpenseEntrySuccess">Total Expense updated successfully!!</string>
+    <string-array name="year">
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+        <item>2030</item>
+    </string-array>
+
+
+
+    <string-array name="expense_types">
+        <item>Harvest Labour</item>
+        <item>Soil Labour</item>
+        <item>Chemical+Labour</item>
+        <item>Fertilizers</item>
+        <item>Cleaning</item>
+    </string-array>
+
+    <string-array name="income_types">
+        <item>Cardamom Sale</item>
+        <item>Thatta Sale</item>
+        <item>Others</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+<item android:id="@+id/Expense"
+    android:title="Expenses"
+    android:iconTint="@color/white"
+    android:icon="@drawable/expenses"></item>
+    <item android:id="@+id/Income"
+        android:iconTint="@color/white"
+        android:title="Income"
+        android:icon="@drawable/money"></item>
+    <item android:id="@+id/Settings"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="Settings"
+        android:iconTint="@color/white"
+        ></item>
+
+
+</menu>
